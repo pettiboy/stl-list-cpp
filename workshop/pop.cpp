@@ -27,7 +27,7 @@ int main() {
 
     // using pop_front()
 
-    cout<< "after pop_back():  ";
+    cout<< "after pop_front():  ";
     print_list(list1);
 
     // removing element from middle of list

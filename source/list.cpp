@@ -17,7 +17,7 @@ int main() {
 
     // printing the list using an iterator
     list<int> :: iterator iterator_ka_naam;
-    iterator_ka_naam = list1_ka_naam.begin(); // iterator will now point at begining of the list
+    iterator_ka_naam = list1_ka_naam.begin(); // iterator will now point at beginning of the list
 
     cout<< *iterator_ka_naam << endl; // iterator is pointing at the first element of the list
     

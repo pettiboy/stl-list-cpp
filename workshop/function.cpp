@@ -35,7 +35,7 @@ int main() {
     
     // adding values to list using iterator
 
-        // point iterator to begining of list
+        // point iterator to beginning of list
     
         // make pointer = 1st element in the list
         // increment iterator

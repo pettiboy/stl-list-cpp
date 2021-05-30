@@ -36,7 +36,7 @@ int main() {
     // adding values to list using iterator
     list<int> :: iterator iterator_ka_naam;
 
-    iterator_ka_naam = list2.begin(); // point iterator to begining of list
+    iterator_ka_naam = list2.begin(); // point iterator to beginning of list
     
     *iterator_ka_naam = 25;
     iterator_ka_naam ++;
